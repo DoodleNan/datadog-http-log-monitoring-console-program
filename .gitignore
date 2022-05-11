@@ -1,0 +1,12 @@
+# MacOS folders
+.DS_Store
+
+# IntelliJ folder and files
+.idea
+*.iml
+
+# Compiled java files
+target
+
+# Log file
+*.log
